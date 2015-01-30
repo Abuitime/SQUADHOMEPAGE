@@ -87,7 +87,7 @@ user-select: none;
 	
 }
 
-.phone-nav{
+.login-nav{
 	background-image:url(http://png-4.findicons.com/files/icons/2315/default_icon/128/padlock_closed_inv.png);
 	background-position:center center;
 	background-repeat:no-repeat;
@@ -96,7 +96,7 @@ user-select: none;
 	color: white;
 }
 
-.twitter-nav{
+.signup-nav{
 	background-image:url(http://www.caramellos.co.za/images/icons/Cara%20Franhisee%20application%20icon%20-%20white.png);
 	background-position:center center;
 	background-repeat:no-repeat;
