@@ -1,0 +1,2 @@
+# SQUADHOMEPAGE
+Squad home page
